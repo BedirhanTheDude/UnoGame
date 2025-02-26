@@ -1,0 +1,39 @@
+1. Started game with name: 555
+2. Player plays: NumberCard(GREEN, 7)
+3. Connor played card: WildCard(WILDFOUR) with color: 
+4. Markus drew a card: NumberCard(GREEN, 4)
+5. Markus drew a card: NumberCard(YELLOW, 2)
+6. Markus drew a card: NumberCard(RED, 9)
+7. Markus drew a card: NumberCard(BLUE, 3)
+8. Markus played card: NumberCard(YELLOW, 5)
+9. Kara played card: WildCard(WILDFOUR) with color: 
+10. Hank drew a card: NumberCard(BLUE, 4)
+11. Hank drew a card: WildCard(WILD)
+12. Hank drew a card: NumberCard(BLUE, 9)
+13. Hank drew a card: NumberCard(RED, 3)
+14. Hank played card: NumberCard(YELLOW, 5)
+15. Mat played card: NumberCard(YELLOW, 4)
+16. John played card: WildCard(WILDFOUR) with color: 
+17. Evelyn drew a card: NumberCard(GREEN, 9)
+18. Evelyn drew a card: NumberCard(RED, 3)
+19. Evelyn drew a card: NumberCard(RED, 6)
+20. Evelyn drew a card: NumberCard(GREEN, 8)
+21. Evelyn played card: WildCard(WILD) with color: 
+22. Emily played card: NumberCard(GREEN, 0)
+23. Mike played card: WildCard(WILDFOUR) with color: 
+24. Player draws card: NumberCard(RED, 2)
+25. Player draws card: NumberCard(BLUE, 5)
+26. Player draws card: NumberCard(YELLOW, 3)
+27. Player draws card: NumberCard(YELLOW, 7)
+28. Player plays: NumberCard(BLUE, 5)
+29. Connor played card: NumberCard(BLUE, 7)
+30. Markus played card: NumberCard(BLUE, 3)
+31. Kara played card: NumberCard(BLUE, 2)
+32. Hank played card: NumberCard(BLUE, 4)
+33. Mat played card: WildCard(WILD) with color: 
+34. John played card: NumberCard(GREEN, 1)
+35. Evelyn played card: ActionCard(GREEN, DRAWTWO)
+36. Emily drew a card: WildCard(WILD)
+37. Emily drew a card: NumberCard(RED, 7)
+38. Emily played card: WildCard(WILD) with color: 
+39. Mike played card: ActionCard(BLUE, DRAWTWO)
